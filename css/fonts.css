@@ -1,0 +1,27 @@
+/* font-family: "LatoLight" */
+@font-face {
+  font-family: "Lato-Light";
+  src: url("../fonts/Lato/Lato-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "Lato-Regular" */
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("../fonts/Lato/Lato-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "Lato-Heavy" */
+@font-face {
+  font-family: "Lato-Heavy";
+  src: url("../fonts/Lato/Lato-Heavy.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "Lato-Semibold" */
+@font-face {
+  font-family: "Lato-Semibold";
+  src: url("../fonts/Lato/Lato-Semibold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
